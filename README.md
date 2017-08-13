@@ -1,6 +1,6 @@
 # Indix Key Value Store
 
-Configure list of ports in src/main/resources/config.properties and deploy jar file in configured (Tomcat) servers.
+Configure list of ports in src/main/resources/config.properties and deploy war file in configured (Tomcat) servers.
 
 Put data to map of one server(port eg: 4455). It is replicated to all other configured servers(port eg: 4466)
 
